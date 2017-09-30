@@ -20,6 +20,7 @@ public class RestClient {
 	static WebTarget baseTarget;
 	static WebTarget allMessagesTarget;
 	static WebTarget singleMessageTarget=null;
+	//IGNIRE THIS COMMENT
 
 	static Builder builder;
 	static String url = "http://localhost:8181/Webservices-REST-Tutorial-R0/webapi/";
